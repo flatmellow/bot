@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
-   "ip": schoolsmp-5UTy.aternos.me",
+   "ip": "schoolsmp-5UTy.aternos.me:30470"
     "port": 30470
   "author": "Lamgerr",
   "license": "MIT",
