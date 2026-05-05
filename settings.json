@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
-  },
+   "ip": schoolsmp-5UTy.aternos.me",
+    "port": 30470
   "author": "Lamgerr",
   "license": "MIT",
   "dependencies": {
